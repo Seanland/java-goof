@@ -40,6 +40,12 @@
             <artifactId>jaxb-impl</artifactId>
             <version>2.3.0</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/io.confluent/common-utils -->
+        <dependency>
+            <groupId>io.confluent</groupId>
+            <artifactId>common-utils</artifactId>
+            <version>5.3.0</version>
+        </dependency>
     </dependencies>
 
     <licenses>
